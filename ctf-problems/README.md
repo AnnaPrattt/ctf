@@ -10,3 +10,6 @@ This repository contains some of the CTF problems I have made, most commonly for
     * IceCreamStore [Web enumeration, automated web scanning tools]
     * Journey  [Client side authentication, crytography]
     *  IOT [Weak website access control]
+
+* Cryptography <br>
+    * Forgotten [Basic cipher types, pop culture ciphers]    
